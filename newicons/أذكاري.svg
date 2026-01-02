@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	x="0%" y="0%"
+	width="100%" height="100%"
+	viewBox="0 0 48.0 48.0"
+	enable-background="new 0 0 48.0 48.0"
+	xml:space="preserve">
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="1.000"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="miter"
+		stroke-linecap="round"
+		d="M47.54,13.62L47.54,28.69"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M37.80,19.73C42.17,19.04,48.57,28.69,36.68,27.27"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M39.18,15.51L39.18,15.51z"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M30.75,16.17Q26.55,16.02,24.83,21.28L33.27,21.28L33.27,27.27L19.18,27.27L19.18,14.78"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M10.68,32.30Q13.87,32.76,14.86,28.72L14.86,21.16"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M0.50,25.16Q0.40,27.71,1.37,29.62Q5.07,31.11,8.26,29.19L8.21,25.16C2.81,25.16,2.81,19.04,8.21,19.04"/>
+	<path
+		fill="#FFFFFF"
+		stroke="#FFFFFF"
+		fill-opacity="0.012"
+		stroke-opacity="1.000"
+		fill-rule="nonzero"
+		stroke-width="0.5825852"
+		stroke-linejoin="round"
+		stroke-linecap="round"
+		d="M3.35,34.49L5.91,34.49"/>
+</svg>
