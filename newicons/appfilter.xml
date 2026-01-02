@@ -93,6 +93,9 @@
 	<!-- 100 Office Workouts -->
 	<item component="ComponentInfo{com.darebee.officeworkouts/com.darebee.officeworkouts.MainActivity}" drawable="_100"/>
 
+	<!-- أذكاري -->
+	<item component="ComponentInfo{com.mbh.azkari/com.mbh.azkari.activities.landing.SplashActivity}" drawable=""/>
+	
 	<!-- 101 Okey Plus -->
 	<item component="ComponentInfo{net.peakgames.Yuzbir/com.unity3d.player.UnityPlayerActivity}" drawable="_101_okey_plus"/>
 
